@@ -17,7 +17,7 @@ const Settings = () => {
                 'How many images can I submit at once?',
                 'Can I upload images from my gallery?',
                 'How long does disease detection take?',
-                'What if the app can\'t detect the disease?'
+                'What if the app cant detect the disease?'
             ]
         },
         {
